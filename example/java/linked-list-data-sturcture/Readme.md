@@ -6,7 +6,7 @@
 
 3.)types of linked list?
 
-4.)how to manipulate the different type of linked list.
+4.)how to manipulate the different type of linked list(create and traverse through).
 
 5.)demo project using all types of linked list and their different manipulation
 
