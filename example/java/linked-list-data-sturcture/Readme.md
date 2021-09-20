@@ -6,7 +6,7 @@
 
 3.)types of linked list?
 
-4.)how to manipulate the different type of linked list.
+4.)how to manipulate the different type of linked list(create and traverse through).
 
 5.)demo project using all types of linked list and their different manipulation
 
@@ -104,7 +104,7 @@ Singly Linked List: It is the simplest type of linked list in which every node c
 
 ***Doubly Linked list***
 Doubly Linked List: A doubly linked list or a two-way linked list is a more complex type of linked list which contains a pointer to the next as well as the previous node in sequence, Therefore, it contains three parts are data, a pointer to the next node, and a pointer to the previous node. This would enable us to traverse the list in the backward direction as well.
-![alt text](./images/Doubly-Circular-Linked-List.png?raw=true)
+![alt text](./images/Doubly-Linked-List.png?raw=true)
 
 ***Circular linked list***
 Circular Linked List: A circular linked list is that in which the last node contains the pointer to the first node of the list. While traversing a circular liked list, we can begin at any node and traverse the list in any direction forward and backward until we reach the same node we started. Thus, a circular linked list has no beginning and no end.
