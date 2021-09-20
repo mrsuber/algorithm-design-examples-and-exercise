@@ -100,16 +100,19 @@ Doubly linked list is the best solution here. We maintain head and tail pointers
 
 Singly Linked List: It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type. The node contains a pointer to the next node means that the node stores the address of the next node in the sequence. A single linked list allows traversal of data only in one way.
 
+![alt text](./images/Singly-Linked-List1.png?raw=true)
+
 ***Doubly Linked list***
 Doubly Linked List: A doubly linked list or a two-way linked list is a more complex type of linked list which contains a pointer to the next as well as the previous node in sequence, Therefore, it contains three parts are data, a pointer to the next node, and a pointer to the previous node. This would enable us to traverse the list in the backward direction as well.
-
+![alt text](./images/Doubly-Circular-Linked-List.png?raw=true)
 
 ***Circular linked list***
 Circular Linked List: A circular linked list is that in which the last node contains the pointer to the first node of the list. While traversing a circular liked list, we can begin at any node and traverse the list in any direction forward and backward until we reach the same node we started. Thus, a circular linked list has no beginning and no end.
-
+![alt text](./images/Circular-Linked-List.png?raw=true)
 ***Double Circular Linked list***
 Doubly Circular linked list: A Doubly Circular linked list or a circular two-way linked list is a more complex type of linked-list that contains a pointer to the next as well as the previous node in the sequence. The difference between the doubly linked and circular doubly list is the same as that between a singly linked list and a circular linked list. The circular doubly linked list does not contain null in the previous field of the first node.
-
+![alt text](./images/Doubly-Circular-Linked-List.png?raw=true)
 
 ***Header Linked list***
 Header Linked List: A header linked list is a special type of linked list which contains a header node at the beginning of the list. So, in a header linked list START will not point to the first node of the list but START will contain the address of the header node
+![alt text](./images/Grounded-Headed-Linked-List.png?raw=true)
