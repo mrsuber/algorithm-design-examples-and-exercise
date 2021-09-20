@@ -116,3 +116,35 @@ Doubly Circular linked list: A Doubly Circular linked list or a circular two-way
 ***Header Linked list***
 Header Linked List: A header linked list is a special type of linked list which contains a header node at the beginning of the list. So, in a header linked list START will not point to the first node of the list but START will contain the address of the header node
 ![alt text](./images/Grounded-Headed-Linked-List.png?raw=true)
+
+
+*Stacks*
+
+Support retrieval by last-in, first-out (LIFO) order.
+->Push(x,s): Insert item x at the top of stack s.
+->Pop(s): Return (and remove) the top item of stack s.
+
+
+ *Queues*
+ Support retrieval in first in, first out (FIFO) order.
+
+–>Enqueue(x,q): Insert item x at the back of queue q.
+–>Dequeue(q): Return (and remove) the front item from queue q.
+
+
+*Dictionaries*
+The dictionary data type permits access to data items by content. You stick an
+item into a dictionary so you can find it when you need it.
+
+• Search(D,k) – Given a search key k, return a pointer to the element in dictionary D whose key value is k, if one exists.
+• Insert(D,x) – Given a data item x, add it to the set in the dictionary D.
+• Delete(D,x) – Given a pointer to a given data item x in the dictionary D,
+remove it from D.
+
+
+*Binary Search Trees*
+
+Binary search requires that we have fast access to two elements—specifically
+the median elements above and below the given node. To combine these ideas, we
+need a “linked list” with two pointers per node. This is the basic idea behind binary
+search trees.

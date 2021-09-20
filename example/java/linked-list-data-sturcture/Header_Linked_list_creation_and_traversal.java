@@ -72,15 +72,13 @@ public static void main(String[] args)
     create_header_list(13);
 
     // Print the list
-    System.out.printf("List After inserting"
-          + " 3 elements:\n");
+    System.out.printf("List After inserting"+ " 3 elements:\n");
     display();
     create_header_list(14);
     create_header_list(15);
 
     // Print the list
-    System.out.printf("List After inserting"
-          + " 2 more elements:\n");
+    System.out.printf("List After inserting"+ " 2 more elements:\n");
     display();
 
 }
