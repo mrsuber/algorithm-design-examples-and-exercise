@@ -59,7 +59,7 @@ class Ex6{
     for(int i=0;i< arr_size;i++){
       array[i]=sc.nextInt();
     }
-
+    sc.close();
 
     int answer[] = rotateArray(array,d);
 
